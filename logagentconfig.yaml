@@ -1,0 +1,14 @@
+grepnumlines: 250
+searchbeforecontext: 2
+searchaftercontext: 2
+
+extensions:
+ - log
+ - out
+
+docker:
+ - /var/lib/docker/containers
+
+
+
+ 
